@@ -1,6 +1,6 @@
 # 🖥️ Simulation & Modeling
 
-This project provides a complete set of Python simulations inspired by Simulation & Modeling course material.
+This project provides a complete set of Python Simulations & Modeling.
 It includes models of malware spreading, immunity dynamics, information transmission, earthquake (sandpile) systems,
 and M/M/1 queueing behavior.
 

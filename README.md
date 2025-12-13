@@ -1,8 +1,7 @@
 # 🖥️ Simulation & Modeling
 
 This project provides a complete set of Python Simulations & Modeling.
-It includes models of malware spreading, immunity dynamics, information transmission, earthquake (sandpile) systems,
-and M/M/1 queueing behavior.
+It includes models of malware spreading, immunity dynamics, information transmission, earthquake (sandpile) systems, M/M/1 queueing behavior and the **OFC Earthquake model**.
 
 
 ## Required Packages
@@ -19,6 +18,7 @@ python malware_with_immunity.py
 python information_spread.py
 python earthquake_simulation.py
 python mm1_queue.py
+python ofc_simulation.py
 ```
 Each script will automatically show a plot of the simulation results.
 
@@ -38,6 +38,9 @@ Self-organized criticality model producing avalanches of various sizes.
 
 ### 5. M/M/1 Queue Simulation
 Classic queue simulation showing stability when λ < μ and divergence when λ > μ.
+
+### 6. OFC Earthquake Model
+Simulation of the Olami-Feder-Christensen model for tectonic earthquakes using continuous energy values and non-conservative relaxation.
 
 ## Tips
 

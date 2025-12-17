@@ -1,7 +1,6 @@
 # 🖥️ Simulation & Modeling
 
-This project provides a complete set of Python Simulations & Modeling.
-It includes models of malware spreading, immunity dynamics, information transmission, earthquake (sandpile) systems, M/M/1 queueing behavior and the **OFC Earthquake model**.
+This project provides a complete set of Python Simulations & Modeling. It includes models of malware spreading, immunity dynamics, information transmission, earthquake (sandpile) systems, M/M/1 queueing behavior and the **OFC Earthquake model**.
 
 
 ## Required Packages
